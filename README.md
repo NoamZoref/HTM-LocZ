@@ -2,7 +2,7 @@
 
 This repository accompanies the paper:
 
-**Symmetric Cancer Spheroid-Fibroblast Organization Revealed by PSF Engineered High-Throughput 3D Microscopy**  
+**Symmetric Cancer Spheroid-Fibroblast Organization Revealed in 3D by High-Throughput Microscopy**  
 Noam Zoref*, Maytal Avrashami*, Nadav Opatovski, Paul Keselman, 
 Yosi Shamay, Yoav Shechtman  
 
@@ -29,10 +29,10 @@ The notebook ['spheroid_fibroblast_3d_localizations.ipynb'](spheroid_fibroblast_
 If you use this code, please cite:
 
 ```
-@article{ZorefAvrashami2025,
-  title   = {Symmetric Cancer Spheroid-Fibroblast Organization Revealed by PSF Engineered High-Throughput 3D Microscopy},
+@article{ZorefAvrashami2026,
+  title   = {Symmetric Cancer Spheroid-Fibroblast Organization Revealed in 3D by High-Throughput Microscopy},
   author  = {Noam Zoref, Maytal Avrashami, Nadav Opatovski, Paul Keselman, Yosi Shamay, Yoav Shechtman},
-  year    = {2025},
-  note    = {Submitted manuscript}
+  year    = {2026},
+  note    = {Accepted manuscript}
 }
 ```
